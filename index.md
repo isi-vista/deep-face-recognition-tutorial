@@ -6,6 +6,7 @@ _Face recognition made tremendous leaps in the last five years with a myriad of 
 ![iacopo image][iacopo]
 
 **Iacopo Masi**
+
 *USC ISI* 
 
 [iacopo]: /imgs/iacopo.png
