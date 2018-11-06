@@ -18,7 +18,7 @@ Please, if you use the slides or survey paper cite as follows:
 @inproceedings{masi:deepfacetut18,
   title={Deep Face Recognition: a Survey},
   author={Masi, Iacopo and Wu, Yue and Hassner, Tal and Natarajan, Prem},
-  booktitle = {SIBGRAPI Tutorials},
+  booktitle = {SIBGRAPI - Conference on Graphics, Patterns and Images},
   year = {2018}
 }
 ```
