@@ -2,4 +2,3 @@ theme: jekyll-theme-minimal
 title: [Deep Face Recognition: A tutorial]
 description: [Tutorial at SIBRAPI 2018]
 logo: [logo.png]
-show_downloads: ["true"]
