@@ -9,6 +9,9 @@ _Face recognition made tremendous leaps in the last five years with a myriad of 
 
 [authors]: /imgs/authors.png
 
+## Slides ##
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeAjckcdDJ6fzvJyezR1VyDIAU7QoEc2O-_3BZp55iBmSU4JKf45FL5O8WFeaw547jx-xb4gWwIdEb/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Citation ##
 
