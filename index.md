@@ -11,9 +11,7 @@ _Face recognition made tremendous leaps in the last five years with a myriad of 
 
 ## Survey Paper ##
 
-![paper image][paper]
-
-[paper]: /imgs/final_paper.png
+[<img src="/imgs/final_paper.png">](http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2018/09.10.22.41/doc/PID5564503.pdf)
 
 ## Slides ##
 
