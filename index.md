@@ -19,7 +19,20 @@ _Face recognition made tremendous leaps in the last five years with a myriad of 
 
 [You can download the slides in PDF format.](https://docs.google.com/forms/d/e/1FAIpQLSe92oVNZFz8vL0MZ7eLYyNlDdPzWTzVi2HGX_homygBJ6TXqA/viewform)
 
-**Please remember to [cite](#Citation) our paper if you use our material, thanks!**
+**Please remember to cite our paper if you use our material, thanks!**
+
+#### Citation
+
+Please, if you use the slides or survey paper cite as follows:
+
+```bibtex
+@inproceedings{masi:deepfacetut18,
+  title={Deep Face Recognition: a Survey},
+  author={Masi, Iacopo and Wu, Yue and Hassner, Tal and Natarajan, Prem},
+  booktitle = {SIBGRAPI - Conference on Graphics, Patterns and Images},
+  year = {2018}
+}
+```
 
 ### 01 - Introduction
 
@@ -43,18 +56,3 @@ _Face recognition made tremendous leaps in the last five years with a myriad of 
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX88ZuFSxZM6BzIkANDIb83qcgmL4xeOoeDXt8pA9tdk_Uv1rg5Gl1ZromlJ2-J7Q2A_j8vofrvooy/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-
-## Citation
-
-Please, if you use the slides or survey paper cite as follows:
-
-```bibtex
-@inproceedings{masi:deepfacetut18,
-  title={Deep Face Recognition: a Survey},
-  author={Masi, Iacopo and Wu, Yue and Hassner, Tal and Natarajan, Prem},
-  booktitle = {SIBGRAPI - Conference on Graphics, Patterns and Images},
-  year = {2018}
-}
-```
