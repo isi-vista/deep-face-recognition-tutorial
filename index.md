@@ -18,6 +18,7 @@ _Face recognition made tremendous leaps in the last five years with a myriad of 
 ### Download
 
 [You can download the slides in PDF format.](https://docs.google.com/forms/d/e/1FAIpQLSe92oVNZFz8vL0MZ7eLYyNlDdPzWTzVi2HGX_homygBJ6TXqA/viewform)
+
 **Please remember to [cite](#Citation) our paper if you use our material, thanks!**
 
 ### 01 - Introduction
