@@ -45,6 +45,7 @@ _Face recognition made tremendous leaps in the last five years with a myriad of 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX88ZuFSxZM6BzIkANDIb83qcgmL4xeOoeDXt8pA9tdk_Uv1rg5Gl1ZromlJ2-J7Q2A_j8vofrvooy/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
+
 ## Citation
 
 Please, if you use the slides or survey paper cite as follows:
