@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Deep Face Recognition: A Tutorial #
 
 ## Abstract ##
@@ -7,7 +12,7 @@ _Face recognition made tremendous leaps in the last five years with a myriad of 
 
 ![authors image][authors]
 
-[authors]: /imgs/authors.png
+[authors]: imgs/authors.png
 
 ## Survey Paper ##
 
